@@ -1,53 +1,18 @@
 # Hi there, I'm Sup4ikX 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9C7A4D&center=true&vCenter=true&width=700&lines=Building+the+future...;Communication+beyond+limits...;Protocols+redefined...;I+don't+spend+time+on+demonstration;I+spend+it+on+creation." alt="Typing animation" />
-</div>
-
----
-
-```ascii
-    ____                      __        ___   ___
-   / __ \____  ___  ____     / /_      /   | / (_)___  ___
-  / /_/ / __ \/ _ \/ __ \   / __/     / /| |/ / / __ \/ _ \
- / _, _/ /_/ /  __/ /_/ /  / /_      / ___ / / / / / /  __/
-/_/ |_|\____/\___/ .___/   \__/     /_/  |_/_/_/_/ /_/\___/
-                /_/
-```
-
-<div align="center">
-  <i>~ waves • code • geometry ~</i>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Sup4ikX?style=for-the-badge&color=9C7A4D&labelColor=2D2A24" />
-  <img src="https://img.shields.io/github/stars/Sup4ikX?style=for-the-badge&color=9C7A4D&labelColor=2D2A24" />
-  <img src="https://img.shields.io/badge/status-computational%20verification-9C7A4D?style=for-the-badge&labelColor=2D2A24" />
-  <img src="https://komarev.com/ghpvc/?username=Sup4ikX&style=for-the-badge&color=9C7A4D&label=views" />
-</div>
-
----
-
 ## 👤 About Me
 
 Young founder building for the future.
 
-**Current focus areas:**
-
-| 🔒 **Secure Communication** | ⚡ **Protocol Analyzer** |
-|------------------------------|---------------------------|
-| Resistant to electronic warfare | 5–6× faster than existing solutions |
-| Operational underground & underwater | Symbolic computation + formal verification |
-| *— details classified —* | CEGIS • CEGAR • CEGPS • Neuro‑symbolic AI |
+🔒 **Secure communication** — EW‑resistant, operational underground & underwater *(classified)*  
+⚡ **Protocol analyzer** — symbolic + AI‑driven, 5–6× faster than existing solutions
 
 > *"I don't spend time on demonstration, I spend it on creation."*  
 > *"I will become the best."*
 
-**🚀 In development since 2020**
+<marquee behavior="scroll" direction="left" scrollamount="8" truespeed>
+  🚀 In development since 2020 · C++ · Rust · Go · Python · SMT · CEGIS · Neuro‑symbolic AI · Quantum · HPC · CUDA · eBPF · DPDK · ROS2 · ZKP · MPC
+</marquee>
 
 ---
 
@@ -116,8 +81,3 @@ Young founder building for the future.
 <div align="center">
   <i>"I don't spend time on demonstration, I spend it on creation."</i>
 </div>
-
-<!---
-Sup4ikX/Sup4ikX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
