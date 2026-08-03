@@ -4,15 +4,9 @@
 
 Young founder building for the future.
 
-🔒 **Secure communication** — EW‑resistant, operational underground & underwater *(classified)*  
-⚡ **Protocol analyzer** — symbolic + AI‑driven, 5–6× faster than existing solutions
-
-> *"I don't spend time on demonstration, I spend it on creation."*  
-> *"I will become the best."*
-
-<marquee behavior="scroll" direction="left" scrollamount="8" truespeed>
-  🚀 In development since 2020 · C++ · Rust · Go · Python · SMT · CEGIS · Neuro‑symbolic AI · Quantum · HPC · CUDA · eBPF · DPDK · ROS2 · ZKP · MPC
-</marquee>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=9C7A4D&center=true&vCenter=true&width=700&height=60&lines=I+don't+spend+time+on+demonstration%2C;I+spend+it+on+creation.;I+will+become+the+best." alt="Typing animation" />
+</div>
 
 ---
 
@@ -59,6 +53,11 @@ Young founder building for the future.
 
 - **Next‑gen communication** — EW‑resistant, underground/underwater capable *(classified)*
 - **Protocol analyzer** — symbolic + AI‑driven, 5–6× faster than existing solutions
+
+<marquee behavior="scroll" direction="left" scrollamount="8" truespeed>
+  ⚡ CEGIS · CEGAR · CEGPS · SMT · Symbolic Execution · Model Checking · Neuro‑symbolic · DPI · Fuzzing · eBPF · DPDK · CUDA · TUI · Grafana · Monaco · WASM
+</marquee>
+
 - **Quantum algorithms** — VQE, QAOA, hybrid quantum‑classical models
 - **Physics simulations** — Vlasov, PIC, FDTD, Meep for electrodynamics
 - **Formal verification tools** — SMT‑based, CEGIS/CEGAR pipelines
