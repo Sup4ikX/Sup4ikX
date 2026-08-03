@@ -15,18 +15,18 @@ Young founder building for the future.
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=9C7A4D&center=true&vCenter=true&width=300&height=30&lines=🚧+Projects+in+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=9C7A4D&center=true&vCenter=true&width=320&height=30&lines=🚧+In+Development" />
 </h2>
 
 *Examples:*
 
 - **Next‑gen communication** — EW‑resistant, underground/underwater capable *(classified)*
 
-  ![Progress](https://progress-bar.dev/80/?title=Progress&color=9c7a4d)
+  <img src="https://geps.dev/progress/80" alt="80%" />
 
 - **Protocol analyzer** — symbolic + AI‑driven, 5–6× faster than existing solutions
 
-  ![Progress](https://progress-bar.dev/70/?title=Progress&color=9c7a4d)
+  <img src="https://geps.dev/progress/70" alt="70%" />
 
 <marquee behavior="scroll" direction="left" scrollamount="8" truespeed>
   ⚡ CEGIS · CEGAR · CEGPS · SMT · Symbolic Execution · Model Checking · Neuro‑symbolic · DPI · Fuzzing · eBPF · DPDK · CUDA · TUI · Grafana · Monaco · WASM
@@ -61,6 +61,12 @@ Young founder building for the future.
 
 ### High Performance Computing & Physics
 `CUDA` `MPI` `OpenMP` `eBPF` `DPDK` `SIMD` `SLURM` `HPC` `Vlasov` `PIC` `FDTD` `FDFD` `Meep`
+
+### Hardware & Manufacturing
+- **SolidWorks** — 3D modelling, technical drawing, simulation
+- `Cura`
+- `Altium Designer`
+- `🔧 Soldering`
 
 ### Databases & Storage
 `PostgreSQL` `HDF5` `Redis` `ClickHouse` `SQLite`
