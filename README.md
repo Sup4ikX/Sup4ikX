@@ -24,7 +24,7 @@ Young founder building for the future.
 
   <img src="https://geps.dev/progress/80" alt="80%" />
 
-- **Protocol analyzer** — symbolic + AI‑driven, 5–6× faster than existing solutions
+- **Protocol analyzer** — symbolic + AI‑driven, 10–50× faster than existing solutions
 
   <img src="https://geps.dev/progress/70" alt="70%" />
 
